@@ -3,5 +3,5 @@
 # projectnaam tnt
 
 ## beschrijving
-Dit project
-33
+Dit project bevat een eenvoudige webpagina met een tabel van fictieve personen en een ongeorden lijst met hobby's 
+Het project bevat ook een CSS-bestand voor de opmaak van de pagina
